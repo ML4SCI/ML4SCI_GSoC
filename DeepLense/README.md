@@ -1,3 +1,3 @@
-# ML4SCI_GSoC
+# DeepLense
 
-Contains all datasets for the evaluation tests
+Contains all datasets and resources for the evaluation tests for the DeepLense projects
