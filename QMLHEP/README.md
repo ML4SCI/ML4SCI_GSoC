@@ -1,3 +1,3 @@
-# ML4SCI_GSoC
+# QMLHEP
 
-Contains all datasets for the evaluation tests
+Contains datasets for the QMLHEP evaluation tests.
